@@ -55,6 +55,11 @@ Hello World
 cat editing_final_lab.txt
 
 ```
+![Screenshot 2025-03-20 102725](https://github.com/user-attachments/assets/36c7f660-9a13-4596-92bc-c2b0bb45c2b3)
+![Screenshot 2025-03-20 102650](https://github.com/user-attachments/assets/7ec1c8df-2174-4b9a-aae3-3e42de4e72c4)
+![Screenshot 2025-03-20 103521](https://github.com/user-attachments/assets/670a76c4-3546-41ff-a875-248e3a24c18e)
+![Screenshot 2025-03-20 103619](https://github.com/user-attachments/assets/7b14d668-1a20-4c22-9fe1-15fdc7533f59)
+
 
 
 
