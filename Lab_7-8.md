@@ -65,6 +65,9 @@ touch testfile
 mkdir testdir
 ls -l
 ```
+![Screenshot 2025-03-20 103959](https://github.com/user-attachments/assets/4b88f4e3-bcf2-4668-a371-718c7f22b766)
+![Screenshot 2025-03-20 104106](https://github.com/user-attachments/assets/667a9ed7-2184-46e5-bebe-f93a5cc983f5)
+![Screenshot 2025-03-20 104151](https://github.com/user-attachments/assets/728c3c83-fc47-4e28-84ce-b6a556089ddd)
 
 
 
