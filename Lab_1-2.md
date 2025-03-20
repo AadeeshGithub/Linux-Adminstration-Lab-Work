@@ -26,4 +26,5 @@ mkdir friends family work
 ls
 
 ```
+![Screenshot 2025-03-20 093700](https://github.com/user-attachments/assets/f1880385-0e22-4edf-ab6e-94eade5a42f7)
 
