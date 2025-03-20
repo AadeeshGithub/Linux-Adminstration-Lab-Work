@@ -1,4 +1,4 @@
-# **Experiment - 2 & 3**  
+# **Experiment - 3 & 4**  
 
 *View the gedit man page. Use the `man -k ext4` command to find the command to tune ext4 file-system parameters. Brace expansion is used to generate discretionary strings of characters. Braces contain a comma-separated list of strings, or a sequence expression. The result includes the text that precedes or follows the brace definition.*  
 #
@@ -38,3 +38,4 @@ echo file{1,2,3}.txt
 echo {a..e}
 
 ```
+![Screenshot 2025-03-20 101243](https://github.com/user-attachments/assets/9de6d81f-650f-4262-b975-c93dd8f31f50)
